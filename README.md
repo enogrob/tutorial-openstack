@@ -18,8 +18,7 @@ Learn everything you need to about the subject of this `Tutorialspoint` project.
 TUTORIALS
 * [x] [Por que os Consumidores de TI adoram o OpenStack?](https://www.youtube.com/watch?v=nMqtb1z3-0M)
 * [x] [Palestra: Do zero ao Openstack](https://www.youtube.com/watch?v=M8txc5-NGMQ)
-* [ ] [OpenStack Basics - An overview for the Absolute Beginner](https://www.youtube.com/watch?v=8kADjGCuSVI)
-* [ ] [What Is OpenStack | OpenStack Tutorial For Beginners | OpenStack Training | Edureka](https://www.youtube.com/watch?v=Kfj5XiNdJN0)
+* [x] [What Is OpenStack | OpenStack Tutorial For Beginners | OpenStack Training | Edureka](https://www.youtube.com/watch?v=Kfj5XiNdJN0)
 
 CURSO DE OPENSTACK
 * [ ] [OPENSTACK: O que é? Para que serve? #1](https://www.youtube.com/watch?v=deiPxC8SOZk&list=PL0zspxm7AK_DsypYjkFVEU7ZxPn5gReKF&index=1)
