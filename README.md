@@ -21,7 +21,7 @@ TUTORIALS
 * [x] [What Is OpenStack | OpenStack Tutorial For Beginners | OpenStack Training | Edureka](https://www.youtube.com/watch?v=Kfj5XiNdJN0)
 
 CURSO DE OPENSTACK
-* [ ] [OPENSTACK: O que é? Para que serve? #1](https://www.youtube.com/watch?v=deiPxC8SOZk&list=PL0zspxm7AK_DsypYjkFVEU7ZxPn5gReKF&index=1)
+* [x] [OPENSTACK: O que é? Para que serve? #1](https://www.youtube.com/watch?v=deiPxC8SOZk&list=PL0zspxm7AK_DsypYjkFVEU7ZxPn5gReKF&index=1)
 * [ ] [OPENSTACK: Instalação do ambiente de testes com DevStack e Vagrant #2](https://www.youtube.com/watch?v=bh2CHlxyIvw&list=PL0zspxm7AK_DsypYjkFVEU7ZxPn5gReKF&index=2) 
 * [ ] [OPENSTACK: Passeando pelo dashboard do Horizon #3](https://www.youtube.com/watch?v=deiPxC8SOZk&list=PL0zspxm7AK_DsypYjkFVEU7ZxPn5gReKF&index=3)
 * [ ] [OPENSTACK: Gerenciamento de identidade com Keystone #4](https://www.youtube.com/watch?v=deiPxC8SOZk&list=PL0zspxm7AK_DsypYjkFVEU7ZxPn5gReKF&index=4)
